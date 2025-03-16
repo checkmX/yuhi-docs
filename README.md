@@ -28,8 +28,6 @@ iPhone 7 - Works
 
  **Working with initramfs**
 
- **
-
 ## What's not working yet?
 
 **NAND support** (in development)

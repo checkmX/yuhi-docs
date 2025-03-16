@@ -36,17 +36,17 @@
 
 Execute the command:
 
-sudo palera1n -vpk [path to Pongo.bin]
+`sudo palera1n -vpk [path to Pongo.bin]`
 
 ## 3. Launch Yuhi
 
 Execute the command:
 
-printf '/send [path to Yuhi.bin]\nbootm\n' | sudo [path to loader]
+`printf '/send [path to Yuhi.bin]\nbootm\n' | sudo [path to loader]`
 
 ## 4. Open Telnet connection
 
 Execute the command:
 
-telnet 172.16.42.1
+`telnet 172.16.42.1`
 

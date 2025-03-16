@@ -36,7 +36,7 @@
 
 Execute the command:
 
-palera1n -vpk [path to Pongo.bin]
+sudo palera1n -vpk [path to Pongo.bin]
 
 ## 3. Launch Yuhi
 
